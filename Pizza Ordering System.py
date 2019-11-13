@@ -3,7 +3,7 @@
 """
 Created on Tue Oct 15 18:19:05 2019
 
-@author: kofimeighan/km3547
+@KOFIMEIGHAN
 """
 def select_meal():
     user_input = str(input("Hello! Would you like a pizza or a salad?"))
