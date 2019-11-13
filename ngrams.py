@@ -1,4 +1,4 @@
-# kofi meighan/km3547 & isabella arevalo/ia2422
+#@KOFIMEIGHAN
 def count_ngrams(filename, n=2): 
     punctuation = '''!()-[]{};:'"\,<>./?@#$%^&*_~''' 
     f = open(filename,'r')
