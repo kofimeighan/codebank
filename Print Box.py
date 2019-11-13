@@ -3,7 +3,7 @@
 """
 Created on Sun Oct  6 15:07:04 2019
 
-@author: kofi meighan/km3547 and isabelle arevalo/ia2422
+@KOFIMEIGHAN
 """
 user_input = str(input("Please type a word:"))
 
