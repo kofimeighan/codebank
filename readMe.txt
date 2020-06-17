@@ -1,0 +1,1 @@
+Welcome! I am Kofi Meighan and this is a collection of all of my problem sets and programming projects completed in my Introduction to Computing for Engineers and Applied Scientists (ENGI E1006), or more commonly known as Intro to Python, class during the fall 2019 semester.
